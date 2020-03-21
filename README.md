@@ -1,5 +1,6 @@
-# [This is literally just a renamed clone of Sean's (Spayne) soft_knuckles](https://github.com/spayne/soft_knuckles)
+# [This is literally a clone of Spayne's soft_knuckles](https://github.com/spayne/soft_knuckles)
 I just cloned it for SEO purposes
+(as of 3/21/2020 1:11PM PST)
 
 # Soft Knuckles OpenVR Device Driver
 
