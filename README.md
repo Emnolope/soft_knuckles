@@ -1,3 +1,6 @@
+# [This is literally just a renamed clone of Sean's (Spayne) soft_knuckles](https://github.com/spayne/soft_knuckles)
+I just cloned it for SEO purposes
+
 # Soft Knuckles OpenVR Device Driver
 
 An OpenVR input device driver.  To ensure the coverage is complete it's meant to align with how Valve's Knuckles EV2 driver exposes inputs.
